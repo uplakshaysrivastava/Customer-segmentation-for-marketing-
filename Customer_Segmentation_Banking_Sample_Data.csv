@@ -1,0 +1,501 @@
+Customer_ID,Age,Annual_Income_INR,Tenure_Years,Monthly_Transactions,Monthly_Spend_INR,Products_Held,Preferred_Channel,Gender,Customer_Segment
+C0001,65,89637,9,10,2624.95,4,Internet Banking,Male,High Value
+C0002,67,78082,5,14,2367.93,3,Internet Banking,Female,Mainstream
+C0003,33,73356,2,14,2992.83,1,Mobile App,Male,Mainstream
+C0004,24,80218,13,19,2079.68,2,Internet Banking,Male,Young & Active
+C0005,40,59107,1,10,1674.78,2,Mobile App,Male,Mainstream
+C0006,66,111001,6,15,4581.44,2,Mobile App,Male,High Value
+C0007,63,74370,2,20,1810.63,1,Mobile App,Female,Mainstream
+C0008,40,62092,15,12,1943.74,5,Mobile App,Male,Multi-Product
+C0009,49,87746,12,12,3016.44,3,Internet Banking,Male,High Value
+C0010,22,71956,8,14,3505.43,4,Branch,Male,Young & Active
+C0011,57,63044,15,13,2677.51,4,Mobile App,Male,Multi-Product
+C0012,38,67320,7,21,3216.99,2,ATM,Other/Prefer not say,Mainstream
+C0013,62,18000,2,7,1609.95,2,ATM,Male,Low Engagement
+C0014,25,76919,14,19,3223.5,5,ATM,Male,Young & Active
+C0015,19,48382,10,11,2311.01,3,Mobile App,Male,Mainstream
+C0016,64,73164,15,12,2699.41,1,Mobile App,Female,Mainstream
+C0017,35,52984,9,10,3026.49,5,Mobile App,Female,Multi-Product
+C0018,59,104429,14,17,1617.17,3,Internet Banking,Other/Prefer not say,Mainstream
+C0019,28,89627,15,16,2408.9,3,Mobile App,Male,High Value
+C0020,52,77920,9,17,3383.92,2,Internet Banking,Female,Mainstream
+C0021,21,24200,11,20,4856.61,4,Mobile App,Male,Young & Active
+C0022,24,75139,15,15,3742.28,2,Internet Banking,Female,Young & Active
+C0023,45,41124,12,21,1860.7,6,Mobile App,Female,Multi-Product
+C0024,56,50919,15,16,2070.31,1,Mobile App,Female,Mainstream
+C0025,45,55153,4,21,2367.75,3,Mobile App,Male,Mainstream
+C0026,59,94541,1,7,1944.19,5,Internet Banking,Female,Multi-Product
+C0027,48,42527,8,8,3113.86,2,Mobile App,Female,Mainstream
+C0028,35,87206,3,12,3665.51,2,Branch,Male,High Value
+C0029,64,43842,2,11,634.63,4,ATM,Female,Multi-Product
+C0030,63,37852,14,20,2183.01,3,Internet Banking,Male,Mainstream
+C0031,55,83137,13,10,1758.3,3,Mobile App,Female,Mainstream
+C0032,67,65233,2,15,2102.98,2,Mobile App,Male,Mainstream
+C0033,50,43827,14,8,1966.52,5,Internet Banking,Female,Multi-Product
+C0034,23,85143,7,16,2807.45,2,Mobile App,Female,High Value
+C0035,56,63557,10,7,1956.15,3,Branch,Female,Low Engagement
+C0036,56,53440,12,11,1718.1,4,Mobile App,Male,Multi-Product
+C0037,20,86312,8,12,2919.62,4,Branch,Female,High Value
+C0038,62,48519,14,13,2725.09,2,ATM,Female,Mainstream
+C0039,31,37877,12,12,1302.6,2,Mobile App,Female,Mainstream
+C0040,45,56408,6,17,514.03,2,Branch,Female,Mainstream
+C0041,60,67308,1,16,3832.08,4,Branch,Male,Multi-Product
+C0042,37,67897,14,16,2175.76,2,Internet Banking,Female,Mainstream
+C0043,68,36829,4,19,1867.29,3,Internet Banking,Female,Mainstream
+C0044,67,44055,12,12,2171.43,5,Mobile App,Male,Multi-Product
+C0045,26,94088,6,11,2854.22,1,Branch,Female,High Value
+C0046,69,77858,4,16,2301.93,5,Mobile App,Male,Multi-Product
+C0047,45,80119,10,10,2345.29,3,Mobile App,Male,Mainstream
+C0048,68,73059,7,14,1632.22,4,Internet Banking,Male,Multi-Product
+C0049,41,29508,11,18,3888.43,4,Branch,Male,Multi-Product
+C0050,61,79324,3,10,2273.89,4,Mobile App,Female,Multi-Product
+C0051,44,101219,9,7,3718.93,3,ATM,Female,High Value
+C0052,45,91195,9,21,1878.6,2,Internet Banking,Female,Mainstream
+C0053,33,26313,13,15,1611.94,4,Branch,Male,Multi-Product
+C0054,64,44129,6,6,2300.6,4,ATM,Male,Multi-Product
+C0055,28,62925,8,11,2951.75,2,Internet Banking,Male,Mainstream
+C0056,20,18000,14,10,2384.32,5,Internet Banking,Female,Multi-Product
+C0057,67,42901,15,14,2390.4,3,Internet Banking,Male,Mainstream
+C0058,42,51586,2,9,1539.75,5,Mobile App,Male,Multi-Product
+C0059,67,35789,8,8,3339.48,4,ATM,Male,Multi-Product
+C0060,26,59200,6,12,635.09,1,Internet Banking,Female,Young & Active
+C0061,18,45213,1,12,2563.85,5,Internet Banking,Female,Young & Active
+C0062,30,100471,5,9,3165.55,2,Branch,Female,High Value
+C0063,38,91820,4,13,2516.41,1,Mobile App,Female,High Value
+C0064,33,27179,14,9,1690.7,3,Branch,Male,Mainstream
+C0065,44,73454,15,14,2736.48,6,Mobile App,Female,Multi-Product
+C0066,54,44630,15,14,2207.11,1,ATM,Female,Mainstream
+C0067,54,67851,15,14,2931.1,2,ATM,Female,Mainstream
+C0068,47,61514,12,14,3517.29,2,Branch,Male,Mainstream
+C0069,45,47513,3,14,2858.37,4,Branch,Male,Multi-Product
+C0070,53,63923,13,8,2119.5,2,Branch,Male,Mainstream
+C0071,69,60914,8,11,3232.0,2,ATM,Female,Mainstream
+C0072,37,18000,4,11,1970.67,6,Internet Banking,Female,Multi-Product
+C0073,31,45260,7,13,2896.87,3,Mobile App,Male,Mainstream
+C0074,25,61343,15,15,2191.52,1,Mobile App,Male,Young & Active
+C0075,58,63310,3,13,1207.51,4,Internet Banking,Female,Multi-Product
+C0076,39,80688,15,13,2955.3,6,Mobile App,Male,Multi-Product
+C0077,30,77772,15,14,2435.22,2,Mobile App,Female,Mainstream
+C0078,35,62675,14,16,2606.57,5,ATM,Female,Multi-Product
+C0079,43,31616,5,10,1543.46,2,Branch,Male,Mainstream
+C0080,61,28876,15,15,1231.69,2,Mobile App,Male,Mainstream
+C0081,38,82731,9,10,1142.82,4,Internet Banking,Male,Multi-Product
+C0082,43,29609,1,13,2101.58,3,Branch,Female,Mainstream
+C0083,21,55498,13,12,3958.99,4,Branch,Male,Young & Active
+C0084,28,120465,10,13,3060.63,3,Internet Banking,Female,High Value
+C0085,53,66863,11,10,3846.52,3,Mobile App,Female,Mainstream
+C0086,51,84519,1,15,2374.12,1,ATM,Male,Mainstream
+C0087,65,62470,15,12,2331.28,6,Mobile App,Female,Multi-Product
+C0088,31,62430,13,13,2793.94,3,Mobile App,Female,Mainstream
+C0089,24,42698,4,19,2456.79,4,Internet Banking,Male,Young & Active
+C0090,63,59265,4,17,2938.97,3,Mobile App,Male,Mainstream
+C0091,64,59102,4,12,2097.44,2,Mobile App,Male,Mainstream
+C0092,19,94517,15,7,2978.03,4,Branch,Female,High Value
+C0093,64,51865,7,19,2976.86,4,Internet Banking,Other/Prefer not say,Multi-Product
+C0094,61,51548,14,13,1536.39,2,Mobile App,Male,Mainstream
+C0095,53,86948,14,13,776.11,3,Branch,Female,Mainstream
+C0096,32,81329,9,6,1707.79,4,Internet Banking,Male,Multi-Product
+C0097,42,64601,5,9,1383.96,1,Branch,Male,Mainstream
+C0098,21,79840,13,12,2772.33,4,Mobile App,Other/Prefer not say,Young & Active
+C0099,28,22363,2,7,1507.99,2,Mobile App,Female,Low Engagement
+C0100,36,72095,10,15,2911.86,3,Mobile App,Female,Mainstream
+C0101,68,55380,6,15,2600.41,3,Internet Banking,Male,Mainstream
+C0102,19,96933,12,8,2824.27,2,Branch,Male,High Value
+C0103,50,22659,12,21,1665.16,3,Branch,Male,Mainstream
+C0104,22,108688,4,8,2675.38,3,Mobile App,Male,High Value
+C0105,58,75390,2,24,1511.8,4,Mobile App,Male,Multi-Product
+C0106,20,77448,1,10,3338.38,4,Mobile App,Female,Multi-Product
+C0107,67,78331,1,13,2450.99,4,ATM,Female,Multi-Product
+C0108,70,74679,8,12,3867.43,2,Mobile App,Female,Mainstream
+C0109,60,47196,6,14,2726.76,3,Internet Banking,Female,Mainstream
+C0110,54,34252,11,15,1468.96,5,Branch,Female,Multi-Product
+C0111,65,40815,4,13,2660.47,4,Branch,Female,Multi-Product
+C0112,21,44235,2,19,3451.66,3,Mobile App,Female,Young & Active
+C0113,20,91785,10,15,1312.64,3,Mobile App,Other/Prefer not say,Young & Active
+C0114,32,73835,9,8,2120.53,1,Mobile App,Female,Mainstream
+C0115,41,63810,7,15,2057.66,1,ATM,Male,Mainstream
+C0116,39,19069,4,12,1768.35,2,Mobile App,Male,Mainstream
+C0117,57,59840,13,10,1285.0,4,Branch,Male,Multi-Product
+C0118,53,53009,9,17,3266.86,2,Mobile App,Female,Mainstream
+C0119,69,96024,7,15,2222.62,6,Branch,Male,High Value
+C0120,43,42064,1,15,1883.88,5,Internet Banking,Female,Multi-Product
+C0121,32,85888,3,12,2927.45,2,Mobile App,Female,High Value
+C0122,42,52700,13,14,2645.45,2,Mobile App,Male,Mainstream
+C0123,39,55755,4,10,2536.83,3,ATM,Female,Mainstream
+C0124,60,35314,10,13,1922.28,2,Mobile App,Female,Mainstream
+C0125,24,68047,3,16,4335.95,1,Mobile App,Male,Young & Active
+C0126,70,29852,6,12,3223.42,3,Branch,Male,Mainstream
+C0127,20,62336,15,16,2954.13,3,Internet Banking,Female,Young & Active
+C0128,52,75516,10,12,2678.0,6,Branch,Other/Prefer not say,Multi-Product
+C0129,67,127211,7,11,3097.31,4,Internet Banking,Female,High Value
+C0130,42,123768,10,12,3696.91,2,Branch,Male,High Value
+C0131,20,36023,11,19,2150.9,2,Internet Banking,Male,Young & Active
+C0132,56,114451,11,17,3552.76,3,Mobile App,Female,High Value
+C0133,33,79276,10,6,3001.75,3,Mobile App,Male,Low Engagement
+C0134,38,36744,13,10,2123.45,1,Internet Banking,Female,Mainstream
+C0135,43,71423,11,14,1980.98,5,Mobile App,Female,Multi-Product
+C0136,59,42267,4,9,2164.29,3,Mobile App,Male,Mainstream
+C0137,61,59723,12,21,514.87,3,ATM,Female,Mainstream
+C0138,23,106537,7,14,1534.03,2,Branch,Female,Young & Active
+C0139,59,63192,15,16,3198.9,1,Internet Banking,Male,Mainstream
+C0140,20,77156,10,13,2645.37,5,Mobile App,Male,Young & Active
+C0141,63,63875,6,11,3057.43,3,Branch,Male,Mainstream
+C0142,47,64735,7,19,1405.73,3,Branch,Female,Mainstream
+C0143,50,120924,14,9,3415.42,4,Mobile App,Female,High Value
+C0144,36,95523,6,11,2412.87,1,Internet Banking,Female,High Value
+C0145,30,74774,15,13,2780.59,3,Internet Banking,Male,Mainstream
+C0146,28,82738,12,15,4055.35,4,Mobile App,Female,Young & Active
+C0147,46,72221,14,11,2021.59,1,Mobile App,Male,Mainstream
+C0148,19,67440,5,9,2227.65,2,Mobile App,Female,Mainstream
+C0149,19,55231,13,11,1596.17,3,Branch,Male,Mainstream
+C0150,50,65557,15,8,2348.8,2,Mobile App,Female,Mainstream
+C0151,39,105475,7,18,2941.66,2,ATM,Male,High Value
+C0152,24,41028,10,14,2829.48,3,Branch,Male,Young & Active
+C0153,40,56765,14,10,2655.74,1,Mobile App,Male,Mainstream
+C0154,39,70347,8,14,1718.57,2,Internet Banking,Female,Mainstream
+C0155,44,90242,7,10,2818.32,1,Branch,Female,High Value
+C0156,36,69953,3,12,2660.86,3,Internet Banking,Female,Mainstream
+C0157,24,81348,14,13,3560.34,3,Mobile App,Female,Young & Active
+C0158,26,90664,5,10,1988.27,3,Internet Banking,Male,Mainstream
+C0159,60,52444,2,18,2081.86,2,Internet Banking,Male,Mainstream
+C0160,56,81024,2,11,1455.83,5,Mobile App,Male,Multi-Product
+C0161,61,116266,13,19,2926.22,3,ATM,Female,High Value
+C0162,50,89667,3,9,2784.23,5,Mobile App,Female,High Value
+C0163,65,79263,14,15,3672.64,2,Branch,Male,Mainstream
+C0164,33,103631,1,14,3905.93,3,ATM,Male,High Value
+C0165,59,33531,12,13,1283.01,3,Mobile App,Female,Mainstream
+C0166,36,52323,7,17,2143.26,4,Branch,Male,Multi-Product
+C0167,46,64965,12,21,1620.05,4,Internet Banking,Female,Multi-Product
+C0168,25,98590,8,9,3139.19,5,ATM,Female,High Value
+C0169,44,72938,11,15,3612.78,3,Mobile App,Male,Mainstream
+C0170,50,48378,14,7,1946.4,2,ATM,Female,Low Engagement
+C0171,57,59237,15,9,3379.61,4,Branch,Male,Multi-Product
+C0172,19,45469,13,9,1828.13,1,Internet Banking,Female,Mainstream
+C0173,42,95100,3,15,1864.17,2,Internet Banking,Male,Mainstream
+C0174,19,78860,5,9,4629.95,1,Mobile App,Female,Mainstream
+C0175,32,136619,2,8,1723.26,3,Branch,Female,Mainstream
+C0176,21,54488,6,13,1784.51,2,Branch,Female,Young & Active
+C0177,57,87784,3,14,2183.86,6,Branch,Female,Multi-Product
+C0178,63,78339,10,9,2826.45,3,Mobile App,Male,Mainstream
+C0179,57,50093,12,12,1785.29,2,Mobile App,Male,Mainstream
+C0180,37,47095,14,12,1632.2,4,Mobile App,Female,Multi-Product
+C0181,27,72629,2,14,3175.65,2,Internet Banking,Male,Young & Active
+C0182,20,28553,11,11,3064.21,3,Branch,Male,Mainstream
+C0183,44,55013,7,15,2800.43,1,Branch,Male,Mainstream
+C0184,64,75314,5,11,2921.38,3,Mobile App,Female,Mainstream
+C0185,39,45781,13,14,4047.34,4,Mobile App,Female,Multi-Product
+C0186,67,73440,4,17,1552.33,5,Mobile App,Male,Multi-Product
+C0187,20,79950,2,14,3232.74,2,Internet Banking,Female,Young & Active
+C0188,41,39943,4,8,1864.07,2,Mobile App,Male,Mainstream
+C0189,39,23733,5,14,1986.53,4,Branch,Female,Multi-Product
+C0190,58,85958,9,12,2537.81,1,Internet Banking,Male,High Value
+C0191,36,56665,9,13,646.0,3,Branch,Female,Mainstream
+C0192,65,88185,11,10,1704.85,2,Mobile App,Female,Mainstream
+C0193,68,63382,15,11,2364.86,4,Mobile App,Male,Multi-Product
+C0194,26,31596,9,13,2758.24,3,Internet Banking,Male,Young & Active
+C0195,68,39663,14,18,1296.09,4,Mobile App,Male,Multi-Product
+C0196,43,46150,6,16,2288.46,6,Mobile App,Other/Prefer not say,Multi-Product
+C0197,47,89126,9,17,2697.28,4,Branch,Male,High Value
+C0198,40,123083,7,19,1706.19,3,Mobile App,Male,Mainstream
+C0199,31,18000,3,15,2708.43,1,Internet Banking,Male,Mainstream
+C0200,21,58386,13,15,1813.32,4,Mobile App,Female,Young & Active
+C0201,30,44795,3,10,2242.91,2,Mobile App,Male,Mainstream
+C0202,69,116750,6,13,3685.13,4,Mobile App,Female,High Value
+C0203,58,35836,4,13,1870.39,2,ATM,Female,Mainstream
+C0204,29,77737,3,14,1761.12,6,Mobile App,Female,Young & Active
+C0205,64,73716,8,7,2962.9,5,ATM,Female,Multi-Product
+C0206,30,51811,11,5,1993.91,4,Internet Banking,Female,Multi-Product
+C0207,42,115167,15,15,2729.96,3,Branch,Female,High Value
+C0208,33,82973,10,14,2768.97,4,Internet Banking,Female,Multi-Product
+C0209,65,96428,14,13,2492.97,2,Mobile App,Male,High Value
+C0210,34,79270,14,18,2697.71,4,Internet Banking,Male,Multi-Product
+C0211,70,42613,13,15,3334.47,4,Internet Banking,Other/Prefer not say,Multi-Product
+C0212,43,18000,2,11,1018.61,2,Mobile App,Male,Mainstream
+C0213,22,94227,11,16,1825.4,4,Branch,Male,Young & Active
+C0214,65,99791,7,8,3568.21,1,Mobile App,Female,High Value
+C0215,52,34387,10,9,1350.35,3,Branch,Male,Mainstream
+C0216,41,40090,8,13,1466.28,1,Mobile App,Male,Mainstream
+C0217,42,63389,8,17,2222.5,3,Branch,Male,Mainstream
+C0218,69,59986,8,7,1889.74,4,Internet Banking,Male,Multi-Product
+C0219,28,54794,10,13,2293.19,1,Internet Banking,Female,Young & Active
+C0220,31,51739,14,15,3129.38,5,Internet Banking,Female,Multi-Product
+C0221,49,75946,11,9,2611.57,5,Mobile App,Male,Multi-Product
+C0222,44,66586,1,10,2135.33,2,Internet Banking,Male,Mainstream
+C0223,52,111635,5,12,3001.34,4,Internet Banking,Male,High Value
+C0224,68,68184,12,7,2317.71,4,Mobile App,Female,Multi-Product
+C0225,37,80539,1,14,2094.03,5,Branch,Male,Multi-Product
+C0226,51,50974,9,22,658.95,2,ATM,Female,Mainstream
+C0227,59,70403,6,10,1034.07,3,Branch,Female,Mainstream
+C0228,54,82305,3,20,2608.79,1,Mobile App,Female,Mainstream
+C0229,51,61559,9,18,2144.23,6,Branch,Male,Multi-Product
+C0230,22,67958,4,15,2029.01,3,Internet Banking,Other/Prefer not say,Young & Active
+C0231,47,56242,4,9,1561.35,3,Mobile App,Female,Mainstream
+C0232,50,78114,6,11,1493.77,2,Internet Banking,Male,Mainstream
+C0233,64,48469,14,11,2652.75,4,Internet Banking,Female,Multi-Product
+C0234,58,32553,11,8,3275.51,2,Internet Banking,Male,Mainstream
+C0235,23,58512,13,20,1968.32,2,Internet Banking,Male,Young & Active
+C0236,45,83315,9,13,2369.47,2,Branch,Male,Mainstream
+C0237,24,21808,5,14,2592.45,6,ATM,Female,Young & Active
+C0238,27,48481,4,16,3045.36,3,Internet Banking,Male,Young & Active
+C0239,44,69934,15,15,1964.16,2,ATM,Male,Mainstream
+C0240,33,77060,9,10,2679.49,3,Mobile App,Male,Mainstream
+C0241,53,69248,7,16,1900.27,5,Branch,Female,Multi-Product
+C0242,52,45522,13,15,2711.47,3,Internet Banking,Female,Mainstream
+C0243,58,108335,3,8,1779.43,5,ATM,Male,Multi-Product
+C0244,30,68599,7,12,3660.18,4,ATM,Male,Multi-Product
+C0245,69,69483,10,18,2923.55,2,Mobile App,Female,Mainstream
+C0246,31,22004,2,19,3059.31,6,Internet Banking,Female,Multi-Product
+C0247,69,68056,6,16,1973.19,5,Internet Banking,Female,Multi-Product
+C0248,68,54107,10,16,3315.35,3,Mobile App,Female,Mainstream
+C0249,39,69305,9,9,2117.77,4,Mobile App,Female,Multi-Product
+C0250,49,84783,1,17,2701.36,3,Mobile App,Male,Mainstream
+C0251,26,51016,8,21,1464.76,3,Mobile App,Male,Young & Active
+C0252,61,90837,10,14,3679.96,3,Branch,Female,High Value
+C0253,38,64668,12,10,3532.73,2,Internet Banking,Male,Mainstream
+C0254,28,82972,15,10,729.68,4,Internet Banking,Male,Multi-Product
+C0255,44,92119,9,13,2614.82,1,Branch,Male,High Value
+C0256,56,62787,9,15,3864.04,3,Mobile App,Female,Mainstream
+C0257,45,87709,2,13,3440.59,2,Internet Banking,Female,High Value
+C0258,53,78821,15,17,2796.05,3,ATM,Female,Mainstream
+C0259,35,76831,2,9,3347.22,1,ATM,Female,Mainstream
+C0260,18,90990,6,15,3119.86,2,Mobile App,Female,High Value
+C0261,18,103176,1,17,2903.56,2,Internet Banking,Male,High Value
+C0262,47,18000,14,13,2500.4,2,Branch,Male,Mainstream
+C0263,37,92043,3,10,2842.31,3,Mobile App,Male,High Value
+C0264,22,22145,5,14,1978.12,2,Mobile App,Male,Young & Active
+C0265,56,44689,10,19,1574.06,2,Internet Banking,Female,Mainstream
+C0266,18,43910,15,11,1723.22,2,Branch,Male,Mainstream
+C0267,34,51875,15,12,2911.13,4,Mobile App,Female,Multi-Product
+C0268,42,90175,1,11,2052.11,6,Mobile App,Female,Multi-Product
+C0269,21,58633,13,9,1675.57,2,Mobile App,Male,Mainstream
+C0270,67,62729,13,16,3731.89,1,Mobile App,Female,Mainstream
+C0271,66,59053,12,9,3044.48,1,ATM,Male,Mainstream
+C0272,63,76862,4,12,3446.74,3,Branch,Male,Mainstream
+C0273,65,24314,6,11,2547.41,4,Mobile App,Male,Multi-Product
+C0274,24,18000,1,10,2066.65,3,Branch,Other/Prefer not say,Mainstream
+C0275,41,61380,7,14,3545.39,1,Internet Banking,Male,Mainstream
+C0276,19,67087,12,18,2166.68,3,Branch,Male,Young & Active
+C0277,65,54750,13,8,1224.52,2,Internet Banking,Female,Mainstream
+C0278,60,96108,3,7,3401.87,4,Mobile App,Male,High Value
+C0279,58,76308,6,11,1335.79,3,Mobile App,Female,Mainstream
+C0280,64,99377,1,9,3966.86,3,Mobile App,Male,High Value
+C0281,27,50567,7,12,2562.15,3,Mobile App,Female,Young & Active
+C0282,28,117999,5,12,2129.33,1,Branch,Male,Young & Active
+C0283,48,79308,11,11,3466.22,3,Internet Banking,Male,Mainstream
+C0284,45,74196,11,9,2818.17,2,Internet Banking,Male,Mainstream
+C0285,32,67633,3,9,2582.64,1,Mobile App,Female,Mainstream
+C0286,70,18000,5,8,1654.58,1,Internet Banking,Male,Mainstream
+C0287,57,50759,14,11,1917.5,4,Branch,Female,Multi-Product
+C0288,38,27450,13,18,1902.61,4,Branch,Male,Multi-Product
+C0289,50,74305,3,11,3542.04,3,Mobile App,Female,Mainstream
+C0290,56,52035,1,8,2546.24,4,ATM,Male,Multi-Product
+C0291,55,42334,11,10,1867.29,4,Mobile App,Male,Multi-Product
+C0292,25,95994,6,13,4372.83,2,Mobile App,Female,High Value
+C0293,56,52906,5,12,2584.71,3,Internet Banking,Female,Mainstream
+C0294,47,87049,9,11,2725.97,3,Branch,Male,High Value
+C0295,23,43097,3,11,1258.5,6,Mobile App,Male,Multi-Product
+C0296,45,88452,2,10,3358.38,3,Internet Banking,Female,High Value
+C0297,26,55683,9,14,1971.84,4,Internet Banking,Female,Young & Active
+C0298,52,87417,5,12,2674.53,3,Internet Banking,Male,High Value
+C0299,46,79764,15,7,1950.21,4,Branch,Male,Multi-Product
+C0300,54,88557,12,11,3984.91,2,ATM,Female,High Value
+C0301,43,83161,11,12,3088.27,3,Mobile App,Male,Mainstream
+C0302,51,40407,1,11,1817.04,3,Branch,Male,Mainstream
+C0303,27,70432,10,19,2234.35,4,Mobile App,Male,Young & Active
+C0304,33,71230,5,7,2074.34,5,Internet Banking,Male,Multi-Product
+C0305,44,75572,12,19,2099.4,2,Internet Banking,Male,Mainstream
+C0306,46,33332,4,12,1182.16,4,Internet Banking,Male,Multi-Product
+C0307,39,71665,2,16,1642.02,5,Mobile App,Female,Multi-Product
+C0308,23,68692,13,9,3051.21,6,Branch,Female,Multi-Product
+C0309,55,87253,10,12,3932.29,3,Branch,Female,High Value
+C0310,25,84229,15,11,2598.46,3,Mobile App,Male,Mainstream
+C0311,23,33125,6,16,2225.14,5,ATM,Female,Young & Active
+C0312,27,94511,13,17,2950.65,3,Mobile App,Male,High Value
+C0313,26,71718,9,6,1397.39,3,Internet Banking,Male,Low Engagement
+C0314,70,94116,3,15,2874.3,3,Internet Banking,Female,High Value
+C0315,19,46010,9,17,2311.45,3,Internet Banking,Female,Young & Active
+C0316,43,22418,14,10,1616.37,2,Branch,Female,Mainstream
+C0317,62,77485,2,11,2632.17,4,Internet Banking,Male,Multi-Product
+C0318,18,38413,2,11,3585.01,1,Internet Banking,Female,Mainstream
+C0319,27,35673,1,17,1444.47,3,ATM,Female,Young & Active
+C0320,44,37703,6,11,1868.4,4,Mobile App,Male,Multi-Product
+C0321,24,79588,1,20,2616.15,6,Mobile App,Male,Young & Active
+C0322,36,48606,14,12,2627.63,6,Mobile App,Female,Multi-Product
+C0323,62,52983,1,10,2701.26,5,Branch,Male,Multi-Product
+C0324,61,93711,15,12,3573.43,2,Mobile App,Male,High Value
+C0325,68,87775,5,17,1510.38,1,Mobile App,Female,Mainstream
+C0326,57,57773,5,15,503.57,2,Mobile App,Male,Mainstream
+C0327,24,68610,10,11,3013.09,5,Internet Banking,Female,Multi-Product
+C0328,53,72128,12,21,2880.99,1,Internet Banking,Female,Mainstream
+C0329,38,94686,5,11,1936.9,2,Mobile App,Male,Mainstream
+C0330,40,79684,2,13,2432.49,2,ATM,Female,Mainstream
+C0331,64,76364,2,16,2228.07,6,Mobile App,Female,Multi-Product
+C0332,69,90025,6,12,2625.12,4,Branch,Male,High Value
+C0333,38,105949,5,9,2214.49,4,ATM,Male,High Value
+C0334,28,49731,6,11,1028.48,2,Internet Banking,Female,Mainstream
+C0335,49,43414,14,12,150.0,4,Internet Banking,Male,Multi-Product
+C0336,46,54492,5,22,3093.64,5,Mobile App,Male,Multi-Product
+C0337,60,89713,1,10,2472.61,4,Mobile App,Male,High Value
+C0338,21,63337,8,13,2738.05,2,Mobile App,Male,Young & Active
+C0339,60,107789,13,19,3527.72,5,Mobile App,Male,High Value
+C0340,66,67222,3,16,2511.57,1,Internet Banking,Female,Mainstream
+C0341,25,42471,5,11,2012.13,1,Internet Banking,Male,Mainstream
+C0342,30,20891,10,13,1597.73,6,Internet Banking,Female,Multi-Product
+C0343,57,36715,2,7,1779.81,4,Mobile App,Male,Multi-Product
+C0344,68,117682,4,15,2157.57,4,Mobile App,Female,Multi-Product
+C0345,19,64260,1,15,1033.15,2,Mobile App,Male,Young & Active
+C0346,28,58878,1,10,2825.45,3,Branch,Male,Mainstream
+C0347,38,112128,13,16,4871.81,4,Branch,Male,High Value
+C0348,19,73116,7,11,1653.35,3,Mobile App,Female,Mainstream
+C0349,52,65612,11,15,1921.17,2,Mobile App,Female,Mainstream
+C0350,47,75103,15,17,150.0,2,Branch,Male,Mainstream
+C0351,32,80864,7,14,909.47,2,ATM,Male,Mainstream
+C0352,42,48739,8,11,4362.5,6,ATM,Male,Multi-Product
+C0353,25,86914,14,8,2749.91,2,Mobile App,Male,High Value
+C0354,39,76504,1,13,2069.57,4,Internet Banking,Male,Multi-Product
+C0355,57,56714,10,12,3010.07,3,Internet Banking,Female,Mainstream
+C0356,58,56292,7,18,1760.62,2,Internet Banking,Female,Mainstream
+C0357,44,65152,5,14,732.09,1,Mobile App,Female,Mainstream
+C0358,20,61840,14,7,1447.27,2,Internet Banking,Other/Prefer not say,Low Engagement
+C0359,29,105308,9,8,1653.49,3,Mobile App,Female,Mainstream
+C0360,68,76732,10,14,960.25,3,ATM,Male,Mainstream
+C0361,37,61968,15,13,1754.99,5,ATM,Female,Multi-Product
+C0362,47,64426,1,13,2311.64,4,Branch,Male,Multi-Product
+C0363,51,73871,9,9,2382.23,1,Branch,Male,Mainstream
+C0364,55,65128,7,9,2976.67,5,ATM,Male,Multi-Product
+C0365,50,23695,9,7,1697.32,6,Internet Banking,Male,Multi-Product
+C0366,64,60495,5,15,4047.58,3,Mobile App,Female,Mainstream
+C0367,52,90752,9,13,2134.05,5,Branch,Female,Multi-Product
+C0368,55,70429,8,13,1937.58,4,Mobile App,Male,Multi-Product
+C0369,35,89966,5,11,3211.52,6,Internet Banking,Female,High Value
+C0370,29,71450,14,16,3464.55,4,Branch,Male,Young & Active
+C0371,33,45544,13,15,1931.53,5,Internet Banking,Female,Multi-Product
+C0372,19,60566,14,15,2988.3,2,Branch,Male,Young & Active
+C0373,57,18836,10,7,1438.76,1,Mobile App,Female,Low Engagement
+C0374,40,89504,2,12,2623.63,2,Mobile App,Male,High Value
+C0375,46,85147,4,12,2390.91,2,Mobile App,Female,High Value
+C0376,52,53368,11,15,2610.11,4,Branch,Other/Prefer not say,Multi-Product
+C0377,66,66678,1,14,3307.24,1,Internet Banking,Female,Mainstream
+C0378,62,95772,6,9,2889.83,2,Mobile App,Female,High Value
+C0379,63,56837,7,8,2435.34,3,Branch,Male,Mainstream
+C0380,46,99082,1,10,3481.71,4,Branch,Male,High Value
+C0381,67,49020,8,10,2049.81,2,Mobile App,Female,Mainstream
+C0382,41,22327,7,10,2142.38,4,Internet Banking,Female,Multi-Product
+C0383,39,62861,5,18,3042.35,5,Internet Banking,Female,Multi-Product
+C0384,45,54507,13,10,2737.5,4,Mobile App,Female,Multi-Product
+C0385,22,99353,5,8,2453.58,1,Mobile App,Female,High Value
+C0386,40,80630,14,9,2155.16,1,Branch,Female,Mainstream
+C0387,30,74448,3,16,1905.79,3,ATM,Male,Mainstream
+C0388,48,23639,15,17,1951.59,2,ATM,Male,Mainstream
+C0389,31,110471,15,10,742.25,2,Mobile App,Female,Mainstream
+C0390,40,89034,9,12,3862.87,3,Branch,Female,High Value
+C0391,18,63168,13,8,1773.52,3,Mobile App,Female,Mainstream
+C0392,21,118251,6,17,2305.72,4,Mobile App,Female,High Value
+C0393,22,104018,15,17,2353.88,3,Mobile App,Female,High Value
+C0394,54,114501,2,15,1557.49,1,Mobile App,Female,Mainstream
+C0395,65,68489,11,20,2940.34,3,Internet Banking,Female,Mainstream
+C0396,66,75889,13,22,2769.54,2,ATM,Female,Mainstream
+C0397,26,95668,3,17,3419.87,1,Internet Banking,Female,High Value
+C0398,70,43210,2,22,3119.99,1,ATM,Male,Mainstream
+C0399,23,100595,5,15,1802.85,3,Internet Banking,Male,Young & Active
+C0400,48,50506,3,12,4150.29,1,ATM,Male,Mainstream
+C0401,21,87069,10,11,2627.89,2,Branch,Male,High Value
+C0402,42,60451,14,15,2647.3,5,ATM,Male,Multi-Product
+C0403,23,60345,2,14,1861.32,4,Branch,Female,Young & Active
+C0404,36,92087,13,14,2340.56,4,Internet Banking,Male,High Value
+C0405,18,34484,14,13,2277.79,2,Branch,Female,Young & Active
+C0406,29,66359,8,15,2637.26,6,Internet Banking,Male,Young & Active
+C0407,33,77802,8,14,1548.71,4,Branch,Female,Multi-Product
+C0408,47,25004,8,6,855.15,2,Mobile App,Male,Low Engagement
+C0409,32,48345,5,6,1181.39,3,Mobile App,Female,Low Engagement
+C0410,49,64907,3,10,3184.75,1,Internet Banking,Female,Mainstream
+C0411,67,59028,12,16,3300.13,3,Branch,Male,Mainstream
+C0412,43,49433,8,20,1617.41,5,Branch,Male,Multi-Product
+C0413,25,50416,12,11,1747.63,2,Internet Banking,Male,Mainstream
+C0414,46,34275,11,16,3678.81,2,Mobile App,Male,Mainstream
+C0415,57,71895,15,12,2881.22,5,Mobile App,Female,Multi-Product
+C0416,46,96533,6,10,2247.28,3,Branch,Female,High Value
+C0417,20,40157,3,11,2442.64,3,ATM,Male,Mainstream
+C0418,29,47905,13,11,2356.52,4,Internet Banking,Male,Multi-Product
+C0419,42,93890,5,9,3002.57,3,Mobile App,Female,High Value
+C0420,33,128609,3,18,2382.4,3,Mobile App,Female,High Value
+C0421,66,65313,12,15,1841.23,3,Mobile App,Male,Mainstream
+C0422,19,58847,9,13,2677.83,2,ATM,Female,Young & Active
+C0423,19,60413,2,11,2225.55,3,Mobile App,Female,Mainstream
+C0424,59,63445,2,10,3820.24,4,Mobile App,Male,Multi-Product
+C0425,23,65713,5,14,2748.44,2,Mobile App,Female,Young & Active
+C0426,45,40271,13,19,1349.26,3,Branch,Male,Mainstream
+C0427,25,72760,12,13,3408.56,6,Branch,Female,Young & Active
+C0428,26,62074,10,12,1470.64,3,Branch,Male,Young & Active
+C0429,18,75307,14,9,3608.48,2,Branch,Female,Mainstream
+C0430,39,57765,5,9,2396.22,2,Mobile App,Male,Mainstream
+C0431,28,95301,7,10,3347.74,1,Mobile App,Female,High Value
+C0432,52,73617,1,9,3945.37,3,Mobile App,Male,Mainstream
+C0433,59,88512,5,15,4173.05,3,Mobile App,Female,High Value
+C0434,27,72020,6,16,1701.11,2,Internet Banking,Female,Young & Active
+C0435,34,87602,12,21,1268.93,6,Mobile App,Female,Multi-Product
+C0436,26,75145,6,8,3654.95,2,Internet Banking,Other/Prefer not say,Mainstream
+C0437,70,76868,10,15,2713.99,2,ATM,Male,Mainstream
+C0438,18,91604,15,14,3716.4,2,Mobile App,Male,High Value
+C0439,61,69365,11,6,1286.23,3,Branch,Female,Low Engagement
+C0440,32,68040,14,15,2866.47,1,Internet Banking,Female,Mainstream
+C0441,34,67996,13,8,1587.04,2,Mobile App,Female,Mainstream
+C0442,34,37248,12,8,2043.42,1,Mobile App,Female,Mainstream
+C0443,67,55372,9,14,3442.98,3,Branch,Female,Mainstream
+C0444,43,34318,5,12,1340.48,3,Mobile App,Female,Mainstream
+C0445,49,26240,11,15,3186.95,3,Mobile App,Female,Mainstream
+C0446,41,76751,3,13,2921.84,4,Internet Banking,Female,Multi-Product
+C0447,36,64022,8,14,2316.13,3,Branch,Male,Mainstream
+C0448,69,54008,11,18,369.21,3,Mobile App,Male,Mainstream
+C0449,23,65463,14,16,3719.96,3,Branch,Male,Young & Active
+C0450,23,28812,7,17,1502.04,3,Internet Banking,Female,Young & Active
+C0451,54,18000,2,17,628.18,4,Branch,Male,Multi-Product
+C0452,34,73108,15,11,2245.6,2,Internet Banking,Female,Mainstream
+C0453,48,65000,13,17,3021.39,1,Branch,Female,Mainstream
+C0454,27,61408,11,9,1686.53,3,Mobile App,Female,Mainstream
+C0455,38,18000,8,16,2612.43,2,Internet Banking,Female,Mainstream
+C0456,34,41322,14,13,1453.31,1,ATM,Female,Mainstream
+C0457,18,96643,6,16,2300.23,3,Branch,Male,High Value
+C0458,22,73364,4,14,2074.27,4,Branch,Female,Young & Active
+C0459,57,51980,10,8,1859.19,3,Mobile App,Male,Mainstream
+C0460,69,96953,2,14,3571.1,3,Branch,Male,High Value
+C0461,38,77556,7,12,4204.33,2,Internet Banking,Male,Mainstream
+C0462,27,128957,11,12,3828.68,1,ATM,Male,High Value
+C0463,57,89515,14,13,2022.14,2,Internet Banking,Female,Mainstream
+C0464,65,74975,2,14,3769.84,6,Branch,Female,Multi-Product
+C0465,54,25046,8,10,3294.49,3,Internet Banking,Male,Mainstream
+C0466,64,54025,11,14,1826.67,5,Internet Banking,Female,Multi-Product
+C0467,65,19728,8,13,2898.32,2,Branch,Male,Mainstream
+C0468,56,56814,8,7,2054.88,3,Mobile App,Male,Low Engagement
+C0469,52,83895,13,16,2336.26,5,Internet Banking,Male,Multi-Product
+C0470,67,63070,4,12,3105.73,3,Branch,Female,Mainstream
+C0471,34,42273,11,11,759.61,3,Mobile App,Female,Mainstream
+C0472,34,101022,5,12,2554.37,3,Internet Banking,Female,High Value
+C0473,45,49681,7,13,2680.52,3,Branch,Female,Mainstream
+C0474,31,25164,12,14,2763.65,6,Mobile App,Male,Multi-Product
+C0475,34,32881,5,11,1859.74,4,Internet Banking,Male,Multi-Product
+C0476,49,81390,15,9,1884.78,2,Mobile App,Female,Mainstream
+C0477,70,53087,3,15,459.8,6,Branch,Female,Multi-Product
+C0478,70,127435,14,11,2204.61,3,Mobile App,Female,High Value
+C0479,68,43091,14,18,1979.16,3,Branch,Male,Mainstream
+C0480,40,43741,12,13,2851.0,2,Mobile App,Other/Prefer not say,Mainstream
+C0481,20,30004,6,15,3250.15,4,Mobile App,Male,Young & Active
+C0482,46,74922,9,13,2504.54,4,Mobile App,Male,Multi-Product
+C0483,49,91101,5,15,4287.32,2,Mobile App,Female,High Value
+C0484,20,60260,8,10,2345.25,3,Branch,Male,Mainstream
+C0485,49,74539,9,17,2974.85,3,Mobile App,Male,Mainstream
+C0486,23,96035,2,9,3364.74,2,Mobile App,Male,High Value
+C0487,63,130834,2,8,4629.85,6,Internet Banking,Other/Prefer not say,High Value
+C0488,49,69501,10,22,1964.97,4,Branch,Male,Multi-Product
+C0489,60,94608,2,9,2636.05,3,ATM,Female,High Value
+C0490,56,96594,2,11,2106.0,2,Internet Banking,Male,Mainstream
+C0491,49,92132,10,18,3358.17,4,Branch,Male,High Value
+C0492,19,99966,8,9,3235.07,2,Branch,Female,High Value
+C0493,62,53043,6,12,3594.05,5,Branch,Female,Multi-Product
+C0494,31,56423,1,14,1191.66,1,Branch,Female,Mainstream
+C0495,38,47753,10,12,3119.67,3,Internet Banking,Female,Mainstream
+C0496,64,44211,4,13,1830.24,3,Mobile App,Male,Mainstream
+C0497,51,101922,9,15,2979.82,1,Mobile App,Female,High Value
+C0498,33,56920,8,12,1471.52,5,Internet Banking,Male,Multi-Product
+C0499,70,49541,4,8,1922.11,3,Internet Banking,Male,Mainstream
+C0500,56,70456,13,8,3117.66,3,Mobile App,Male,Mainstream
